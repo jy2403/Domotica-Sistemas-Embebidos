@@ -35,7 +35,6 @@ Sistema domótico basado en el microcontrolador **ESP32** que integra:
 
 | Herramienta | Versión | Uso |
 |---|---|---|
-| ESP-IDF | v5.x | Framework de desarrollo |
 | FreeRTOS | Incluido en ESP-IDF | Gestión multitarea |
 | MQTT (Mosquitto) | 2.x | Comunicación IoT |
 | Node-RED | 3.x | Dashboard de monitoreo |
